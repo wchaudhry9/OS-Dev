@@ -1,3 +1,3 @@
 fn main() {
-    println!("First step");
+    println!("It's working");
 }
